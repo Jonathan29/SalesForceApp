@@ -1,4 +1,4 @@
-﻿[        {
+[        {
             "cardcode": "Código 1",
             "cardname": "Nombre Socio de Negocios",
             "lictradnum": "Rif De Socio de Negocios 1",
@@ -23,7 +23,13 @@
                 "birthdate": "",
                 "gender": "",
                 "profession": "",
-                "birthcity": ""
+                "birthcity": "",
+                "qrygroup1" :  "true",
+                "qrygroup2" :  "true",
+                "qrygroup3" :  "true",
+                "qrygroup5" :  "true",
+                "qrygroup8" :  "true",
+                "qrygroup10" :  "true",
                 },
 				{ "name": "Persona contacto 2" },
 				{ "name": "Persona contacto 3" },
